@@ -1,4 +1,4 @@
-# Playground and Cheatsheet for Learning Python
+# Python Interactive Playground and Handy Reference Guide
 
 ## Table of Contents
 
