@@ -1,4 +1,4 @@
-# Python Interactive Playground and Handy Reference Guide
+# Full Python Course and Handy Reference Guide
 
 ## Table of Contents
 
